@@ -1,0 +1,1 @@
+C:\Users\arter\Documents\Projects\WASM\nandemonaiya\target\wasm32-unknown-unknown\debug\cart.wasm: C:\Users\arter\Documents\Projects\WASM\nandemonaiya\src\alloc.rs C:\Users\arter\Documents\Projects\WASM\nandemonaiya\src\lib.rs C:\Users\arter\Documents\Projects\WASM\nandemonaiya\src\wasm4.rs
